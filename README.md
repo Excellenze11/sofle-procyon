@@ -2,7 +2,7 @@
 
 A complete firmware and case design for the **Sofle Procyon** split keyboard -- a 5x6 column-staggered layout built on the Lucky Studio (LXF-YZP) PCB with a George Norton Procyon 57x80mm touchpad integrated into the right half.
 
-## Features
+## Features 
 
 - **RP2040** processor on each half
 - **Procyon 57x80mm touchpad** (Microchip mXT336UD maxtouch) on the right half, with firmware-level gesture emulation for macOS
